@@ -24,9 +24,7 @@ const styles = StyleSheet.create({
   darkText: {
     color: '#000000',
   },
-  greenText: {
-    color: 'green',
-  },
+  
 });
 
 export default AppPro;
